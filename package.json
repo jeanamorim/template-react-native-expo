@@ -7,7 +7,7 @@
     "start": "export SET NODE_OPTIONS=--openssl-legacy-provider && react-native start"
   },
   "dependencies": {
-    "@expo-google-fonts/poppins": "^0.2.0",
+    "@expo-google-fonts/poppins": "^0.2.3",
     "expo": "~42.0.1",
     "expo-app-loading": "^1.1.2",
     "expo-font": "~9.2.1",
